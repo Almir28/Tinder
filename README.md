@@ -11,10 +11,10 @@ This project is a clone of the popular dating app Tinder, developed using SwiftU
 
 ## Screenshots
 
-![IMG_5364](https://github.com/user-attachments/assets/f91d9a72-c830-425d-9ff1-cf177e99f89d)
-![IMG_5363](https://github.com/user-attachments/assets/4486fda6-336f-4228-9ec0-5c7c767e7d69)
-![IMG_5362](https://github.com/user-attachments/assets/19dd0c40-3484-4630-94bb-2c24696d8fed)
-![IMG_5361](https://github.com/user-attachments/assets/34e878a9-4dac-48f8-af5a-8efe65b6dcc0)
+<img src="https://github.com/user-attachments/assets/197d33ac-4e18-44da-afcc-737f47f2a8b5" width="300" />
+<img src="https://github.com/user-attachments/assets/4486fda6-336f-4228-9ec0-5c7c767e7d69" width="300" />
+<img src="https://github.com/user-attachments/assets/19dd0c40-3484-4630-94bb-2c24696d8fed" width="300" />
+<img src="https://github.com/user-attachments/assets/34e878a9-4dac-48f8-af5a-8efe65b6dcc0" width="300" />
 
 ## Installation
 
@@ -75,10 +75,11 @@ If you have any questions or suggestions, please contact me:
 
 ## Скриншоты
 
-  ![IMG_5364](https://github.com/user-attachments/assets/f91d9a72-c830-425d-9ff1-cf177e99f89d)
-![IMG_5363](https://github.com/user-attachments/assets/4486fda6-336f-4228-9ec0-5c7c767e7d69)
-![IMG_5362](https://github.com/user-attachments/assets/19dd0c40-3484-4630-94bb-2c24696d8fed)
-![IMG_5361](https://github.com/user-attachments/assets/34e878a9-4dac-48f8-af5a-8efe65b6dcc0)
+<img src="https://github.com/user-attachments/assets/197d33ac-4e18-44da-afcc-737f47f2a8b5" width="300" />
+<img src="https://github.com/user-attachments/assets/4486fda6-336f-4228-9ec0-5c7c767e7d69" width="300" />
+<img src="https://github.com/user-attachments/assets/19dd0c40-3484-4630-94bb-2c24696d8fed" width="300" />
+<img src="https://github.com/user-attachments/assets/34e878a9-4dac-48f8-af5a-8efe65b6dcc0" width="300" />
+
 
 
 ## Установка
